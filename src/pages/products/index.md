@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Our Coffee
+title: Our products
 image: /img/flavor_wheel.jpg
 heading: Great coffee with a conscience
 description: >-
